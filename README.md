@@ -40,16 +40,25 @@ El plugin orientaba el resguardo de proyectos de administración de yacimientos,
 
 [Leer el caso de estudio de Save →](docs/GALAPAGO-SAVE.md)
 
-## Mi participación
+## Mi participación: liderazgo de producto y desarrollo técnico
 
-**Rol declarado por el autor: diseño, dirección y programación de ambos productos.**
+**Rol declarado por el autor:** Product Owner y líder del producto, con participación directa en el desarrollo.
 
-- Diseño funcional de herramientas orientadas a necesidades de trabajo en Petrel.
-- Dirección del desarrollo de Galápago Clear y Galápago Save.
-- Programación de los plugins en **C# y .NET**, utilizando **Ocean SDK** para su integración con Petrel.
-- Formación especializada en Ocean de Schlumberger para el trabajo de integración.
+Mi participación comenzó antes de la programación. Realicé personalmente el **levantamiento de requerimientos**, concebí una propuesta inicial de solución —que esbocé durante una estancia de trabajo en un hotel— y la **presenté ante directivos de PEMEX**. De ese proceso surgieron las propuestas de **Galápago Clear** y **Galápago Save**.
 
-**Pendiente de documentar:** versiones de .NET, C# y Ocean SDK; alcance del equipo dirigido; fechas exactas; denominación oficial de la credencial Ocean; y resultados medidos. No se atribuyen versiones, certificaciones específicas o métricas sin confirmación.
+Posteriormente asumí responsabilidades de **Product Owner y liderazgo del producto**, dirigí a un **equipo de ingenieros** y colaboré activamente en la programación de las extensiones con **C#, .NET y Ocean SDK**.
+
+El recorrido profesional abarcó:
+
+1. **Descubrimiento:** levantamiento directo de necesidades y problemas operativos.
+2. **Conceptualización:** diseño de una solución y definición de los dos productos.
+3. **Presentación ejecutiva:** exposición de la propuesta ante directivos de PEMEX.
+4. **Liderazgo de producto:** coordinación del trabajo del equipo de ingeniería y orientación funcional.
+5. **Implementación:** participación práctica en el desarrollo de los plugins integrados con Petrel.
+
+> Esta reconstrucción del rol y del origen de las soluciones procede del **testimonio del autor**. La presentación histórica documenta las funcionalidades, pero no acredita por sí misma reuniones, cargos, estructura del equipo o responsabilidades individuales. No se afirma una contratación directa por PEMEX ni un despliegue de producción no documentado.
+
+**Pendiente de documentar:** versiones de .NET, C# y Ocean SDK; tamaño del equipo; fechas exactas; denominación oficial de la credencial Ocean; y resultados medidos.
 
 ## Tecnologías utilizadas
 
