@@ -46,7 +46,7 @@ El plugin orientaba el resguardo de proyectos de administración de yacimientos,
 
 Mi participación comenzó antes de la programación. Realicé personalmente el **levantamiento de requerimientos**, concebí una propuesta inicial de solución —que esbocé durante una estancia de trabajo en un hotel— y la **presenté ante directivos de PEMEX**. De ese proceso surgieron las propuestas de **Galápago Clear** y **Galápago Save**.
 
-Posteriormente asumí responsabilidades de **Product Owner y liderazgo del producto**, dirigí a un **equipo de ingenieros** y colaboré activamente en la programación de las extensiones con **C#, .NET y Ocean SDK**.
+Posteriormente asumí responsabilidades de **Product Owner y liderazgo del producto**, dirigí a un **equipo multidisciplinario de tres profesionales (dos ingenieros en sistemas y una ingeniera geofísica)** y colaboré activamente en la programación de las extensiones con **C#, .NET y Ocean SDK**.
 
 El recorrido profesional abarcó:
 
@@ -58,7 +58,7 @@ El recorrido profesional abarcó:
 
 > Esta reconstrucción del rol y del origen de las soluciones procede del **testimonio del autor**. La presentación histórica documenta las funcionalidades, pero no acredita por sí misma reuniones, cargos, estructura del equipo o responsabilidades individuales. No se afirma una contratación directa por PEMEX ni un despliegue de producción no documentado.
 
-**Pendiente de documentar:** versiones de .NET, C# y Ocean SDK; tamaño del equipo; fechas exactas; denominación oficial de la credencial Ocean; y resultados medidos.
+**Pendiente de documentar:** versiones de .NET, C# y Ocean SDK; fechas exactas; denominación oficial de la credencial Ocean; y resultados medidos.
 
 ## Tecnologías utilizadas
 
