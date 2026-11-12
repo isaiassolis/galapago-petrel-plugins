@@ -12,13 +12,14 @@ La presentación incluye capturas históricas de las interfaces y ejemplos de re
 ## Información declarada por el autor
 
 - Participó en el **diseño, dirección y programación** de ambos productos.
+- Confirmó que ambos plugins se programaron con **C# y .NET utilizando Ocean SDK**, integrados con Petrel.
 - Cursó una **certificación/capacitación Ocean de Schlumberger** relacionada con su desarrollo.
 
 Estas afirmaciones se identifican como testimonio del autor, no como datos acreditados por la presentación.
 
 ## Por confirmar antes de ampliar el caso
 
-- Lenguajes, frameworks, versiones y APIs efectivamente utilizados.
+- Versiones concretas de C#, .NET y Ocean SDK; APIs específicas y arquitectura interna.
 - Denominación exacta, año y naturaleza de la credencial Ocean (curso, evaluación, certificación formal).
 - Fechas de desarrollo, equipo de trabajo, clientes o despliegues autorizados para mención pública.
 - Indicadores de impacto con evidencia documental.
