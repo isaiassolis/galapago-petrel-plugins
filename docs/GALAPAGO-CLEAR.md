@@ -24,6 +24,6 @@ Presentación Galápago, julio de 2018: **páginas 4–10** (problema, solución
 
 ## Participación profesional
 
-El autor declara haber **diseñado, dirigido y programado** Galápago Clear. Los detalles de tecnología, arquitectura interna, APIs utilizadas y tamaño del equipo están pendientes de documentarse.
+El autor declara haber **diseñado, dirigido y programado** Galápago Clear. El autor confirmó el uso de **C#, .NET y Ocean SDK** para implementar el plugin integrado con Petrel. Las versiones, arquitectura interna, llamadas concretas a APIs y tamaño del equipo están pendientes de documentarse.
 
 [← Volver al resumen](../README.md)
