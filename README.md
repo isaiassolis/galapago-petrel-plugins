@@ -30,11 +30,21 @@ La documentación histórica identifica dos necesidades:
 
 ### Galápago Clear
 
+![Presentación visual de Galápago Clear: listado de pozos y gráfica de registros](docs/assets/galapago-clear.png)
+
+*Imagen de presentación. Si se utiliza la versión reconstruida con IA, los textos y valores de la interfaz pueden diferir del material histórico.*
+
+
 El plugin permitía consultar información del proyecto sin recorrer manualmente las carpetas del panel *Input*, identificar ciertos elementos repetidos y comparar registros geofísicos de dos pozos desde una ventana propia.
 
 [Leer el caso de estudio de Clear →](docs/GALAPAGO-CLEAR.md)
 
 ### Galápago Save
+
+![Presentación visual de Galápago Save: interfaz de resguardo y contenido del proyecto](docs/assets/galapago-save.png)
+
+*Imagen de presentación. Si se utiliza la versión reconstruida con IA, los textos y valores de la interfaz pueden diferir del material histórico.*
+
 
 El plugin orientaba el resguardo de proyectos de administración de yacimientos, incluyendo documentación técnica, fichas, reportes y archivos complementarios, además de datos de georreferenciación.
 
@@ -98,7 +108,7 @@ La presentación **«Presentación Galápago · julio de 2018»** describe los p
 - **Páginas 3–10:** línea Galápago Performance Suite y Galápago Clear.
 - **Páginas 11–18:** Galápago Save.
 
-Las capturas originales aparecen en dicha presentación. **No se redistribuye aquí el PDF ni sus imágenes** hasta confirmar los derechos de publicación de los materiales corporativos. Ver [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
+Las capturas originales aparecen en dicha presentación. El autor ha indicado contar con autorización para publicar las imágenes aportadas. Se incluyen dos imágenes de presentación; el PDF histórico completo no se distribuye. Cuando se trate de versiones reconstruidas con IA, no deben interpretarse como capturas exactas del software. Ver [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
 
 ## Propiedad intelectual y alcance
 
