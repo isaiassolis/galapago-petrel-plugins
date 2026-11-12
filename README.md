@@ -7,6 +7,7 @@
 
 **Productos:** [Galápago Clear](docs/GALAPAGO-CLEAR.md) · [Galápago Save](docs/GALAPAGO-SAVE.md)  
 **Entorno de integración:** Petrel (Schlumberger)  
+**Tecnologías de implementación confirmadas por el autor:** C#, .NET y Ocean SDK  
 **Formación relacionada:** capacitación/certificación Ocean de Schlumberger, declarada por el autor; modalidad y credencial exactas pendientes de comprobar.
 
 > **Tipo de repositorio:** caso de estudio histórico y documentación funcional. **No contiene código fuente, instaladores, SDK, datos petroleros ni componentes propietarios** de Petrel, Ocean o los productos Galápago. La información se basa en una presentación histórica de 18 páginas y en la descripción de la participación profesional proporcionada por el autor.
@@ -45,10 +46,19 @@ El plugin orientaba el resguardo de proyectos de administración de yacimientos,
 
 - Diseño funcional de herramientas orientadas a necesidades de trabajo en Petrel.
 - Dirección del desarrollo de Galápago Clear y Galápago Save.
-- Programación e integración de los plugins con el entorno Petrel.
+- Programación de los plugins en **C# y .NET**, utilizando **Ocean SDK** para su integración con Petrel.
 - Formación especializada en Ocean de Schlumberger para el trabajo de integración.
 
-**Pendiente de documentar:** lenguajes y versiones utilizados, alcance del equipo dirigido, fechas exactas, denominación oficial de la credencial Ocean y resultados medidos. No se atribuyen tecnologías, certificaciones específicas o métricas sin confirmación.
+**Pendiente de documentar:** versiones de .NET, C# y Ocean SDK; alcance del equipo dirigido; fechas exactas; denominación oficial de la credencial Ocean; y resultados medidos. No se atribuyen versiones, certificaciones específicas o métricas sin confirmación.
+
+## Tecnologías utilizadas
+
+- **C#:** lenguaje de programación de los dos plugins.
+- **.NET:** plataforma de desarrollo utilizada.
+- **Ocean SDK:** kit de desarrollo empleado para integrar las extensiones con Petrel.
+- **Petrel:** plataforma anfitriona de las herramientas.
+
+Esta pila tecnológica fue confirmada por el autor; la presentación histórica describe las funciones, pero no detalla versiones ni arquitectura interna.
 
 ## Enfoque técnico
 
