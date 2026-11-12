@@ -13,9 +13,12 @@ La presentación incluye capturas históricas de las interfaces y ejemplos de re
 
 - Participó en el **diseño, dirección y programación** de ambos productos.
 - Confirmó que ambos plugins se programaron con **C# y .NET utilizando Ocean SDK**, integrados con Petrel.
+- Realizó personalmente el levantamiento de requerimientos, diseñó la propuesta inicial durante una estancia de trabajo y la presentó ante directivos de PEMEX.
+- Desempeñó funciones de **Product Owner y líder del producto**, dirigió a un equipo de ingenieros y participó directamente en la programación.
+- Atribuye el origen de las propuestas Galápago Clear y Galápago Save a ese proceso de descubrimiento y presentación ejecutiva.
 - Cursó una **certificación/capacitación Ocean de Schlumberger** relacionada con su desarrollo.
 
-Estas afirmaciones se identifican como testimonio del autor, no como datos acreditados por la presentación.
+Estas afirmaciones se identifican como **testimonio del autor**, no como datos acreditados por la presentación. La mención de PEMEX describe una presentación de propuesta ante directivos, **no demuestra una relación laboral directa, contratación o despliegue de producción**.
 
 ## Por confirmar antes de ampliar el caso
 
