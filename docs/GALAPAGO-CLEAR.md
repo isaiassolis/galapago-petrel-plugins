@@ -1,5 +1,9 @@
 # Galápago Clear
 
+![Galápago Clear — presentación visual](assets/galapago-clear.png)
+
+*Imagen de presentación; las reconstrucciones con IA pueden diferir de las capturas originales en textos y cifras.*
+
 **Plugin para Petrel orientado a la depuración y exploración de información técnica en proyectos de administración de yacimientos.**
 
 ## Problema identificado
