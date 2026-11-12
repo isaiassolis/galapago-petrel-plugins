@@ -1,5 +1,9 @@
 # Galápago Save
 
+![Galápago Save — presentación visual](assets/galapago-save.png)
+
+*Imagen de presentación; las reconstrucciones con IA pueden diferir de las capturas originales en textos y cifras.*
+
 **Plugin para Petrel orientado a automatizar el resguardo y la documentación de proyectos de administración de yacimientos.**
 
 ## Problema identificado
