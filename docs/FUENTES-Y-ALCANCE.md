@@ -7,7 +7,7 @@
 - Páginas 3–10: descripción general y Galápago Clear.
 - Páginas 11–18: Galápago Save.
 
-La presentación incluye capturas históricas de las interfaces y ejemplos de reportes. No se ha incluido el PDF en el repositorio público ni extraído sus imágenes porque la titularidad y autorización de publicación no están confirmadas.
+La presentación incluye capturas históricas de las interfaces y ejemplos de reportes. El autor indicó que cuenta con autorización para publicar las imágenes de los productos y subió dos archivos a `docs/assets/`: `galapago-clear.png` y `galapago-save.png`. El PDF histórico completo no se ha publicado. No se ha verificado si los archivos subidos son las capturas originales o reconstrucciones con IA; por ello se describen como imágenes de presentación y no como evidencia textual exacta de la interfaz.
 
 ## Información declarada por el autor
 
