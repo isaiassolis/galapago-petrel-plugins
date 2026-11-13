@@ -8,7 +8,7 @@
 
 ## Problema identificado
 
-La presentación histórica describe riesgos de pérdida de información ante errores, formateos o eventos imprevistos; dispersión de documentos; y tiempos elevados de búsqueda e inventario de variables técnicas.
+Riesgos de pérdida de información ante errores, formateos o eventos imprevistos; dispersión de documentos; y tiempos elevados de búsqueda e inventario de variables técnicas.
 
 ## Funciones documentadas
 
@@ -19,16 +19,8 @@ La presentación histórica describe riesgos de pérdida de información ante er
 5. Exportación de documentos generados a varios formatos, mencionados como DOC, PDF y XLS.
 6. Flujo guiado para facilitar el proceso de resguardo.
 
-## Beneficio esperado descrito en la presentación
+## Beneficio
 
-Reducir el tiempo y la probabilidad de errores del proceso de resguardo, además de facilitar la administración de documentación técnica. **No se dispone de métricas verificadas** de rendimiento o reducción de errores.
-
-## Evidencia histórica
-
-Presentación Galápago, julio de 2018: **páginas 11–18** (problema, solución, características y ventajas).
-
-## Participación profesional
-
-El autor declara haber **diseñado, dirigido y programado** Galápago Save. El autor confirmó el uso de **C#, .NET y Ocean SDK** para implementar el plugin integrado con Petrel. Las versiones, arquitectura interna, llamadas concretas a APIs y tamaño del equipo están pendientes de documentarse.
+Reducir el tiempo y la probabilidad de errores del proceso de resguardo, además de facilitar la administración de documentación técnica.
 
 [← Volver al resumen](../README.md)
