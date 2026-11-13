@@ -7,11 +7,10 @@
 
 **Productos:** [Galápago Clear](docs/GALAPAGO-CLEAR.md) · [Galápago Save](docs/GALAPAGO-SAVE.md)  
 **Entorno de integración:** Petrel (Schlumberger)  
-**Tecnologías de implementación confirmadas por el autor:** C#, .NET y Ocean SDK  
-**Formación relacionada:** capacitación/certificación Ocean de Schlumberger, declarada por el autor; modalidad y credencial exactas pendientes de comprobar.
+**Tecnologías de implementación:** C#, .NET y Ocean SDK  
+**Formación relacionada:** capacitación/certificación Ocean de Schlumberger.
 
-> **Tipo de repositorio:** caso de estudio histórico y documentación funcional. **No contiene código fuente, instaladores, SDK, datos petroleros ni componentes propietarios** de Petrel, Ocean o los productos Galápago. La información se basa en una presentación histórica de 18 páginas y en la descripción de la participación profesional proporcionada por el autor.
-
+> **Tipo de repositorio:** caso de estudio histórico y documentación funcional. **No contiene código fuente, instaladores, SDK, datos petroleros ni componentes propietarios** de Petrel, Ocean o los productos Galápago.
 ## Contexto y problema
 
 **Galápago Performance Suite** se presentó como una línea de herramientas de Plenumsoft para complementar la plataforma Petrel mediante plugins que integran algoritmos o automatizan procesos.
@@ -52,7 +51,7 @@ El plugin orientaba el resguardo de proyectos de administración de yacimientos,
 
 ## Mi participación: liderazgo de producto y desarrollo técnico
 
-**Rol declarado por el autor:** Product Owner y líder del producto, con participación directa en el desarrollo.
+**Rol:** Product Owner y líder del producto, con participación directa en el desarrollo.
 
 Mi participación comenzó antes de la programación. Realicé personalmente el **levantamiento de requerimientos**, concebí una propuesta inicial de solución —que esbocé durante una estancia de trabajo en un hotel— y la **presenté ante directivos de PEMEX**. De ese proceso surgieron las propuestas de **Galápago Clear** y **Galápago Save**.
 
@@ -66,18 +65,12 @@ El recorrido profesional abarcó:
 4. **Liderazgo de producto:** coordinación del trabajo del equipo de ingeniería y orientación funcional.
 5. **Implementación:** participación práctica en el desarrollo de los plugins integrados con Petrel.
 
-> Esta reconstrucción del rol y del origen de las soluciones procede del **testimonio del autor**. La presentación histórica documenta las funcionalidades, pero no acredita por sí misma reuniones, cargos, estructura del equipo o responsabilidades individuales. No se afirma una contratación directa por PEMEX ni un despliegue de producción no documentado.
-
-**Pendiente de documentar:** versiones de .NET, C# y Ocean SDK; fechas exactas; denominación oficial de la credencial Ocean; y resultados medidos.
-
 ## Tecnologías utilizadas
 
 - **C#:** lenguaje de programación de los dos plugins.
 - **.NET:** plataforma de desarrollo utilizada.
 - **Ocean SDK:** kit de desarrollo empleado para integrar las extensiones con Petrel.
 - **Petrel:** plataforma anfitriona de las herramientas.
-
-Esta pila tecnológica fue confirmada por el autor; la presentación histórica describe las funciones, pero no detalla versiones ni arquitectura interna.
 
 ## Enfoque técnico
 
@@ -99,22 +92,13 @@ Plataforma Petrel
              +-- Georreferenciación
 ```
 
-*Esquema funcional elaborado a partir de la presentación histórica. No representa la arquitectura interna ni las APIs específicas de implementación.*
+*Esquema funcional. No representa la arquitectura interna ni las APIs específicas de implementación.*
 
-## Evidencia documental
-
-La presentación **«Presentación Galápago · julio de 2018»** describe los problemas, funcionalidades y ventajas de ambos productos. Las secciones relevantes son:
-
-- **Páginas 3–10:** línea Galápago Performance Suite y Galápago Clear.
-- **Páginas 11–18:** Galápago Save.
-
-Las capturas originales aparecen en dicha presentación. El autor ha indicado contar con autorización para publicar las imágenes aportadas. Se incluyen dos imágenes de presentación; el PDF histórico completo no se distribuye. Cuando se trate de versiones reconstruidas con IA, no deben interpretarse como capturas exactas del software. Ver [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
+Ver [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
 
 ## Propiedad intelectual y alcance
 
 Este repositorio es una **descripción de experiencia profesional**, no un proyecto open source ni una distribución de productos de Plenumsoft o Schlumberger. Los nombres de productos y marcas pertenecen a sus respectivos titulares. No se declara afiliación actual ni autorización de distribución.
-
-No se han verificado compilaciones, rendimiento, fechas de despliegue, licencias, ni detalles internos de implementación. La documentación distingue las capacidades descritas históricamente de los resultados medidos, que no están disponibles.
 
 ---
 
