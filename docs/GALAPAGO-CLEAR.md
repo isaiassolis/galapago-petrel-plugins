@@ -18,16 +18,8 @@ La presentación histórica describe proyectos con información repetida —incl
 4. Comparación de registros geofísicos de dos pozos desde una ventana propia del plugin.
 5. Presentación de propiedades de variables y generación de reportes en diferentes formatos, mencionados en la presentación como DOC y PDF.
 
-## Beneficio esperado descrito en la presentación
+## Beneficio esperado
 
-Disminuir el tiempo de depuración y facilitar la visualización de información técnica. **No se dispone de mediciones de ahorro de tiempo** ni resultados cuantitativos verificables.
-
-## Evidencia histórica
-
-Presentación Galápago, julio de 2018: **páginas 4–10** (problema, solución, características y ventajas).
-
-## Participación profesional
-
-El autor declara haber **diseñado, dirigido y programado** Galápago Clear. El autor confirmó el uso de **C#, .NET y Ocean SDK** para implementar el plugin integrado con Petrel. Las versiones, arquitectura interna, llamadas concretas a APIs y tamaño del equipo están pendientes de documentarse.
+Disminuir el tiempo de depuración y facilitar la visualización de información técnica.
 
 [← Volver al resumen](../README.md)
