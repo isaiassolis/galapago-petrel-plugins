@@ -1,26 +1,32 @@
 # Galápago Save
 
-![Galápago Save — presentación visual](assets/galapago-save.png)
+**Resguardo y documentación de proyectos de administración de yacimientos**
 
-*Imagen de presentación; las reconstrucciones con IA pueden diferir de las capturas originales en textos y cifras.*
+![Representación visual de Galápago Save](assets/galapago-save.png)
 
-**Plugin para Petrel orientado a automatizar el resguardo y la documentación de proyectos de administración de yacimientos.**
+*Recreación visual de presentación; puede diferir de la interfaz original.*
 
-## Problema identificado
+## El desafío
 
-Riesgos de pérdida de información ante errores, formateos o eventos imprevistos; dispersión de documentos; y tiempos elevados de búsqueda e inventario de variables técnicas.
+El trabajo con proyectos de yacimientos requiere conservar información técnica y documentación complementaria. Preparar resguardos, localizar variables y reunir archivos de distintas fuentes puede convertirse en una tarea repetitiva y propensa a omisiones.
 
-## Funciones documentadas
+## La solución
 
-1. Automatización del proceso de resguardo de proyectos.
-2. Generación de ficha técnica y reporte del resguardo realizado.
-3. Incorporación de documentación complementaria, como imágenes, mapas y presentaciones.
-4. Integración de información de georreferenciación del proyecto.
-5. Exportación de documentos generados a varios formatos, mencionados como DOC, PDF y XLS.
-6. Flujo guiado para facilitar el proceso de resguardo.
+Desarrollamos **Galápago Save** como una extensión para Petrel orientada a organizar el resguardo de proyectos y facilitar la preparación de documentación asociada.
 
-## Beneficio
+Su diseño contemplaba:
 
-Reducir el tiempo y la probabilidad de errores del proceso de resguardo, además de facilitar la administración de documentación técnica.
+- Automatización del proceso de resguardo.
+- Generación de fichas técnicas y reportes del proceso.
+- Incorporación de imágenes, mapas, presentaciones y otros documentos complementarios.
+- Inclusión de información de georreferenciación del proyecto.
+- Exportación de documentos en formatos como DOC, PDF y XLS.
+- Un flujo guiado para facilitar la preparación del resguardo.
 
-[← Volver al resumen](../README.md)
+## Mi participación
+
+Participé en el levantamiento de requerimientos, la definición del producto y el desarrollo de las extensiones con **C#, .NET y Ocean SDK**, además de liderar al equipo involucrado.
+
+Galápago Save buscaba hacer **más ordenado y eficiente el resguardo de información técnica**, manteniéndolo dentro del entorno de trabajo de los especialistas.
+
+[← Volver a Galápago Performance Suite](../README.md)
