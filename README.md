@@ -1,105 +1,90 @@
 ![Galápago Performance Suite](docs/assets/galapago-banner.svg)
 
 # Galápago Performance Suite
-### Caso de estudio profesional · Extensiones para Petrel
 
-**Diseño, dirección de desarrollo y programación de dos productos de software especializado para la gestión de información técnica en proyectos de administración de yacimientos.**
+**Diseño de producto, dirección de desarrollo y programación de extensiones para Petrel**
 
-**Productos:** [Galápago Clear](docs/GALAPAGO-CLEAR.md) · [Galápago Save](docs/GALAPAGO-SAVE.md)  
-**Entorno de integración:** Petrel (Schlumberger)  
-**Tecnologías de implementación:** C#, .NET y Ocean SDK  
-**Formación relacionada:** capacitación/certificación Ocean de Schlumberger.
+Durante mi etapa en **Plenumsoft Energy & Sustainability**, participé en la creación de **Galápago Performance Suite**, una línea de herramientas para **Petrel (Schlumberger)** destinada a facilitar la consulta, organización y resguardo de información técnica en proyectos de administración de yacimientos.
 
-> **Tipo de repositorio:** caso de estudio histórico y documentación funcional. **No contiene código fuente, instaladores, SDK, datos petroleros ni componentes propietarios** de Petrel, Ocean o los productos Galápago.
-## Contexto y problema
+Mi participación comenzó con el **levantamiento directo de requerimientos** y la conceptualización de una solución que presenté ante **directivos de PEMEX**. Después asumí funciones de **Product Owner y líder del producto**, coordiné a **tres profesionales —dos ingenieros en sistemas y una ingeniera geofísica—** y participé en la programación con **C#, .NET y Ocean SDK**.
 
-**Galápago Performance Suite** se presentó como una línea de herramientas de Plenumsoft para complementar la plataforma Petrel mediante plugins que integran algoritmos o automatizan procesos.
+De ese trabajo surgieron dos productos: **Galápago Clear** y **Galápago Save**.
 
-La documentación histórica identifica dos necesidades:
+## El desafío
 
-- **Depuración y exploración de información técnica:** proyectos con elementos repetidos y tiempos elevados de identificación y limpieza de información.
-- **Resguardo y documentación de proyectos:** riesgo de pérdida de información, documentación dispersa y dificultad para localizar variables técnicas.
+Los proyectos de administración de yacimientos reúnen información diversa: pozos, cimas, horizontes, fallas, cubos sísmicos, registros geofísicos y documentación complementaria.
 
-## Productos desarrollados
+Localizar elementos duplicados, consultar variables o preparar resguardos podía requerir múltiples operaciones manuales. Diseñamos herramientas integradas en el entorno de trabajo de Petrel para simplificar esas tareas.
 
-| Producto | Problema abordado | Capacidades documentadas |
-| --- | --- | --- |
-| **[Galápago Clear](docs/GALAPAGO-CLEAR.md)** | Información repetida y depuración laboriosa en proyectos Petrel. | Identificación de variables repetidas; consulta de pozos, cimas, cubos sísmicos, fallas y horizontes; comparación de registros geofísicos de dos pozos. |
-| **[Galápago Save](docs/GALAPAGO-SAVE.md)** | Resguardo y organización de información técnica de proyectos. | Automatización del proceso de resguardo; fichas técnicas y reportes; documentación complementaria; georreferenciación; exportación documental. |
+## Los productos
+
+| Producto | Función |
+| --- | --- |
+| **[Galápago Clear](docs/GALAPAGO-CLEAR.md)** | Exploración y depuración de información del proyecto, identificación de elementos repetidos y comparación de registros de pozo. |
+| **[Galápago Save](docs/GALAPAGO-SAVE.md)** | Resguardo organizado de información técnica, fichas, reportes y documentación complementaria del proyecto. |
 
 ### Galápago Clear
 
-![Presentación visual de Galápago Clear: listado de pozos y gráfica de registros](docs/assets/galapago-clear.png)
+![Representación visual de Galápago Clear: pozos y comparación de registros](docs/assets/galapago-clear.png)
 
-*Imagen de presentación. Si se utiliza la versión reconstruida con IA, los textos y valores de la interfaz pueden diferir del material histórico.*
+**Galápago Clear** permitía explorar información del proyecto desde una ventana integrada con Petrel, identificar variables repetidas y consultar elementos como pozos, cimas, cubos sísmicos, fallas y horizontes. También incluía herramientas para comparar registros geofísicos de dos pozos.
 
-
-El plugin permitía consultar información del proyecto sin recorrer manualmente las carpetas del panel *Input*, identificar ciertos elementos repetidos y comparar registros geofísicos de dos pozos desde una ventana propia.
-
-[Leer el caso de estudio de Clear →](docs/GALAPAGO-CLEAR.md)
+[Conocer Galápago Clear](docs/GALAPAGO-CLEAR.md)
 
 ### Galápago Save
 
-![Presentación visual de Galápago Save: interfaz de resguardo y contenido del proyecto](docs/assets/galapago-save.png)
+![Representación visual de Galápago Save: resguardo e información del proyecto](docs/assets/galapago-save.png)
 
-*Imagen de presentación. Si se utiliza la versión reconstruida con IA, los textos y valores de la interfaz pueden diferir del material histórico.*
+**Galápago Save** se orientaba a simplificar el resguardo de proyectos de administración de yacimientos, reuniendo información técnica, fichas, reportes, documentación complementaria y referencias geográficas.
 
+[Conocer Galápago Save](docs/GALAPAGO-SAVE.md)
 
-El plugin orientaba el resguardo de proyectos de administración de yacimientos, incluyendo documentación técnica, fichas, reportes y archivos complementarios, además de datos de georreferenciación.
+*Las ilustraciones de las interfaces son recreaciones visuales de presentación; pueden diferir de las pantallas originales.*
 
-[Leer el caso de estudio de Save →](docs/GALAPAGO-SAVE.md)
+## Mi participación
 
-## Mi participación: liderazgo de producto y desarrollo técnico
+Tuve responsabilidades a lo largo de distintas etapas del desarrollo:
 
-**Rol:** Product Owner y líder del producto, con participación directa en el desarrollo.
+- **Requerimientos:** identifiqué necesidades operativas y oportunidades de mejora directamente con los usuarios involucrados.
+- **Diseño del producto:** concebí la propuesta que dio origen a Galápago Clear y Galápago Save.
+- **Presentación ejecutiva:** expuse la solución ante directivos de PEMEX.
+- **Liderazgo técnico:** coordiné el trabajo de un equipo formado por dos ingenieros en sistemas y una ingeniera geofísica.
+- **Desarrollo:** participé directamente en la programación e integración de los plugins para Petrel.
 
-Mi participación comenzó antes de la programación. Realicé personalmente el **levantamiento de requerimientos**, concebí una propuesta inicial de solución —que esbocé durante una estancia de trabajo en un hotel— y la **presenté ante directivos de PEMEX**. De ese proceso surgieron las propuestas de **Galápago Clear** y **Galápago Save**.
+Esta experiencia combinó **gestión de producto, comunicación con el cliente, liderazgo multidisciplinario e ingeniería de software especializado**.
 
-Posteriormente asumí responsabilidades de **Product Owner y liderazgo del producto**, dirigí a un **equipo multidisciplinario de tres profesionales (dos ingenieros en sistemas y una ingeniera geofísica)** y colaboré activamente en la programación de las extensiones con **C#, .NET y Ocean SDK**.
+## Tecnologías
 
-El recorrido profesional abarcó:
+| Componente | Tecnología |
+| --- | --- |
+| Lenguaje | **C#** |
+| Plataforma | **.NET** |
+| Desarrollo e integración de plugins | **Ocean SDK** |
+| Aplicación anfitriona | **Petrel (Schlumberger)** |
 
-1. **Descubrimiento:** levantamiento directo de necesidades y problemas operativos.
-2. **Conceptualización:** diseño de una solución y definición de los dos productos.
-3. **Presentación ejecutiva:** exposición de la propuesta ante directivos de PEMEX.
-4. **Liderazgo de producto:** coordinación del trabajo del equipo de ingeniería y orientación funcional.
-5. **Implementación:** participación práctica en el desarrollo de los plugins integrados con Petrel.
+Mi trabajo con esta tecnología también incluyó formación especializada en Ocean.
 
-## Tecnologías utilizadas
-
-- **C#:** lenguaje de programación de los dos plugins.
-- **.NET:** plataforma de desarrollo utilizada.
-- **Ocean SDK:** kit de desarrollo empleado para integrar las extensiones con Petrel.
-- **Petrel:** plataforma anfitriona de las herramientas.
-
-## Enfoque técnico
+## Integración funcional con Petrel
 
 ```text
-Usuarios de Petrel
-       |
-       v
-Plataforma Petrel
-       |
-       +-- Galápago Clear
-       |     +-- Consulta y detección de elementos repetidos
-       |     +-- Exploración de variables del proyecto
-       |     +-- Comparación de registros de pozo
-       |
-       +-- Galápago Save
-             +-- Proceso de resguardo
-             +-- Ficha técnica y reportes
-             +-- Documentos complementarios
-             +-- Georreferenciación
+Petrel
+│
+├── Galápago Clear
+│   ├── Consulta y depuración de información
+│   ├── Exploración de variables del proyecto
+│   └── Comparación de registros de pozos
+│
+└── Galápago Save
+    ├── Resguardo de proyectos
+    ├── Fichas técnicas y reportes
+    ├── Documentación complementaria
+    └── Georreferenciación
 ```
 
-*Esquema funcional. No representa la arquitectura interna ni las APIs específicas de implementación.*
+## Sobre el proyecto
 
-Ver [fuentes, límites y pendientes](docs/FUENTES-Y-ALCANCE.md).
-
-## Propiedad intelectual y alcance
-
-Este repositorio es una **descripción de experiencia profesional**, no un proyecto open source ni una distribución de productos de Plenumsoft o Schlumberger. Los nombres de productos y marcas pertenecen a sus respectivos titulares. No se declara afiliación actual ni autorización de distribución.
+Galápago Performance Suite se desarrolló en el ámbito de **Plenumsoft Energy & Sustainability**, como extensiones para Petrel. Este repositorio presenta mi experiencia profesional y los productos en los que participé, sin distribuir código fuente ni componentes propietarios.
 
 ---
 
-[← Portafolio profesional](https://github.com/isaiassolis)
+[← Volver a mi portafolio profesional](https://github.com/isaiassolis)
