@@ -1,25 +1,31 @@
 # Galápago Clear
 
-![Galápago Clear — presentación visual](assets/galapago-clear.png)
+**Exploración y depuración de información técnica en Petrel**
 
-*Imagen de presentación; las reconstrucciones con IA pueden diferir de las capturas originales en textos y cifras.*
+![Representación visual de Galápago Clear](assets/galapago-clear.png)
 
-**Plugin para Petrel orientado a la depuración y exploración de información técnica en proyectos de administración de yacimientos.**
+*Recreación visual de presentación; puede diferir de la interfaz original.*
 
-## Problema identificado
+## El desafío
 
-Proyectos con información repetida —incluyendo pozos, fallas y cubos sísmicos— y tiempos excesivos dedicados a depurar pozos, cimas, cubos sísmicos, fallas y horizontes.
+Los proyectos de administración de yacimientos pueden acumular elementos duplicados y grandes volúmenes de información sobre pozos, cimas, fallas, horizontes y cubos sísmicos. Localizar y comparar estos elementos manualmente consume tiempo y dificulta la revisión de los datos.
 
-## Funciones
+## La solución
 
-1. Identificación automática de variables repetidas, específicamente pozos y cimas de pozo.
-2. Posibilidad de eliminar variables sin localizar cada una manualmente en el panel *Input*.
-3. Consulta de cubos sísmicos, fallas y horizontes del proyecto sin acceder al panel *Input*.
-4. Comparación de registros geofísicos de dos pozos desde una ventana propia del plugin.
-5. Presentación de propiedades de variables y generación de reportes en diferentes formatos, mencionados en la presentación como DOC y PDF.
+Desarrollamos **Galápago Clear** como una extensión para Petrel orientada a facilitar la consulta y depuración de información desde una interfaz integrada.
 
-## Beneficio
+Entre sus funciones se encontraban:
 
-Disminuir el tiempo de depuración y facilitar la visualización de información técnica.
+- Identificación de pozos y cimas de pozo repetidos.
+- Selección y eliminación de elementos sin tener que recorrer individualmente el panel *Input*.
+- Consulta de cubos sísmicos, fallas y horizontes.
+- Comparación de registros geofísicos de dos pozos desde una ventana del plugin.
+- Consulta de propiedades y preparación de reportes en formatos como DOC y PDF.
 
-[← Volver al resumen](../README.md)
+## Mi participación
+
+Participé en la definición de la solución, el liderazgo del equipo y el desarrollo de los plugins con **C#, .NET y Ocean SDK**, integrados en **Petrel**.
+
+El objetivo fue **simplificar el trabajo de exploración y depuración de datos técnicos**, poniendo herramientas frecuentes al alcance de los especialistas.
+
+[← Volver a Galápago Performance Suite](../README.md)
