@@ -8,9 +8,9 @@
 
 ## Problema identificado
 
-La presentación histórica describe proyectos con información repetida —incluyendo pozos, fallas y cubos sísmicos— y tiempos excesivos dedicados a depurar pozos, cimas, cubos sísmicos, fallas y horizontes.
+Proyectos con información repetida —incluyendo pozos, fallas y cubos sísmicos— y tiempos excesivos dedicados a depurar pozos, cimas, cubos sísmicos, fallas y horizontes.
 
-## Funciones documentadas
+## Funciones
 
 1. Identificación automática de variables repetidas, específicamente pozos y cimas de pozo.
 2. Posibilidad de eliminar variables sin localizar cada una manualmente en el panel *Input*.
@@ -18,7 +18,7 @@ La presentación histórica describe proyectos con información repetida —incl
 4. Comparación de registros geofísicos de dos pozos desde una ventana propia del plugin.
 5. Presentación de propiedades de variables y generación de reportes en diferentes formatos, mencionados en la presentación como DOC y PDF.
 
-## Beneficio esperado
+## Beneficio
 
 Disminuir el tiempo de depuración y facilitar la visualización de información técnica.
 
